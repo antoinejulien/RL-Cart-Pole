@@ -4,6 +4,8 @@ Code python 3 servant à l'entraînment d'un tenseur par l'algorithme
 Q-Learning. Le but du projet est d'implémenter l'algorithme d'apprentissage
 par renforcement et de le comparer à une approche physique et à la
 performance humaine.
+
+![alt text](https://github.com/antoinejulien/RL-Cart-Pole/blob/main/image.jpg?raw=true)
 ---
 ## Libraries nécessaires
 
@@ -13,7 +15,7 @@ performance humaine.
 - pygame
 - keyboard
 
-À noter que la libraire "keyboard" ne peut être exécuter qu'avec des
+  À noter que la libraire "keyboard" ne peut être exécuter qu'avec des
 droits administrateur ("sudo") sur Linux et les autres librairies
 doivent donc être installées sous les mêmes contraintes.
 ---
