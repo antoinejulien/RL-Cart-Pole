@@ -5,7 +5,7 @@ Q-Learning. Le but du projet est d'implémenter l'algorithme d'apprentissage
 par renforcement et de le comparer à une approche physique et à la
 performance humaine.
 
-![alt text](https://github.com/antoinejulien/RL-Cart-Pole/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/antoinejulien/RL-Cart-Pole/blob/main/performance.png?raw=true)
 ---
 ## Libraries nécessaires
 
